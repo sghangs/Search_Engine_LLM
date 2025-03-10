@@ -21,13 +21,3 @@ fastapi
 langserve
 sse_starlette
 duckduckgo-search
-mysql-connector-python
-SQLAlchemy
-validators
-youtube_transcript_api
-pytubefix
-unstructured
-langchain-yt-dlp
-numexpr
-huggingface_hub
-gradio
