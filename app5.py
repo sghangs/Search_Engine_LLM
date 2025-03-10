@@ -11,7 +11,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-# Streamlit
+### Streamlit
 st.title("Langchain - Chat with Search")
 
 #Arxiv tool
