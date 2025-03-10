@@ -1,7 +1,6 @@
 import streamlit as st
 from langchain_groq import ChatGroq
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_chroma import Chroma
 from langchain_community.tools import ArxivQueryRun,WikipediaQueryRun,DuckDuckGoSearchRun
 from langchain_community.utilities import WikipediaAPIWrapper,ArxivAPIWrapper
 from langchain.agents import initialize_agent,AgentType
